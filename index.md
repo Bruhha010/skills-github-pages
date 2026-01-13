@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog
-#Hello
+> Text that is a quote
 ---
 
